@@ -68,5 +68,5 @@ python To-Do-List-GUI.py
 
 CodSoft Internship — Python Programming
 
-<a href="https://github.com/waluschaferns7/CODSOFT" class="github-link">Github</a>
+<a href="https://github.com/waluschaferns7" class="github-link">Github</a>
 
